@@ -1,8 +1,0 @@
-#!/usr/bin/env ruby
-require File.join(File.dirname(File.dirname(__FILE__)), 'config', 'environment')
-require 'gem_stuff.rb'
-require 'rails_generator'
-require 'rails_generator/scripts/generate'
-
-ARGV.shift if ['--help', '-h'].include?(ARGV[0])
-Rails::Generator::Scripts::Generate.new.run(ARGV)
