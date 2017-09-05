@@ -1,0 +1,15 @@
+1503512496	127.0.0.1	E	wiki:welcome		external edit		1704
+1504628723	127.0.0.1	E	wiki:welcome	admin			-1618
+1504628747	127.0.0.1	E	wiki:welcome	admin	[Setting] 		29
+1504628980	127.0.0.1	C	wiki:historia	admin	created		1527
+1504629007	127.0.0.1	E	wiki:historia	admin			4
+1504629222	127.0.0.1	C	wiki:bahamut	admin	created		186
+1504629556	127.0.0.1	E	wiki:historia	admin			120
+1504629588	127.0.0.1	D	wiki:bahamut	admin	removed		-186
+1504629617	127.0.0.1	C	deidades:bahamut	admin	created		188
+1504629640	127.0.0.1	E	deidades:bahamut	admin			18
+1504629697	127.0.0.1	E	wiki:historia	admin			9
+1504629860	127.0.0.1	D	wiki:historia	admin	removed		-1660
+1504629872	127.0.0.1	C	historia	admin	created		1660
+1504629984	127.0.0.1	C	historia:historia	admin	created		1660
+1504630755	127.0.0.1	C	wiki:panteon	admin	created		7
