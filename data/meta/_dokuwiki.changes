@@ -13,3 +13,11 @@
 1504629872	127.0.0.1	C	historia	admin	created		1660
 1504629984	127.0.0.1	C	historia:historia	admin	created		1660
 1504630755	127.0.0.1	C	wiki:panteon	admin	created		7
+1504630742	127.0.0.1	E	wiki:welcome		external edit		57
+1504808230	127.0.0.1	E	wiki:welcome	admin	[Setting] 		48
+1504808462	127.0.0.1	C	civilizaciones:listado	admin	created		119
+1504808498	127.0.0.1	C	civilizaciones:nacion_enana_cordillerana	admin	created		77
+1504808898	127.0.0.1	E	civilizaciones:nacion_enana_cordillerana	admin			691
+1504809284	127.0.0.1	E	civilizaciones:nacion_enana_cordillerana	admin			1081
+1504809654	127.0.0.1	E	civilizaciones:nacion_enana_cordillerana	admin	[Gobierno] 		614
+1504810077	127.0.0.1	C	nacion_enana_cordillerana:ejecutor	admin	created		70
